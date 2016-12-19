@@ -1,1 +1,1 @@
-# counter_react_redux
+# githuber_react_practice
