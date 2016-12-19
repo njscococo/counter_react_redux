@@ -4,7 +4,8 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "start": "webpack-dev-server --colors --inline --content-base ."
+    "dev": "webpack-dev-server --colors --devtool --inline --content-base .",
+    "start": "npm run dev"
   },
   "author": "",
   "license": "ISC",
